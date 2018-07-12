@@ -1,8 +1,8 @@
 ﻿# ConFusion Website
 
-This is a website created by Dorina Mihai during the Full Stack Web and Multiplatform Mobile App Development Specialization from The Hong Kong University of Science and Technology. It uses Front-end web UI Frameworks such as Bootstrap 4. It also uses HTML 5, CSS 3, Less, Sass, Font Awesome, Javascript, JQuery, Popper, Node.js, Git, responsive design and bootstrap grid system.
+This is a website created by Dorina Mihai during the Full Stack Web and Multiplatform Mobile App Development Specialization from The Hong Kong University of Science and Technology. It uses Front-end web UI Frameworks such as Bootstrap 4. It also uses HTML 5, CSS 3, Less, Sass, Font Awesome, Javascript, JQuery, Popper, Node.js, Git, responsive design and bootstrap grid system. ![Main page](http://www.confusion.dorinamihai.tech/img/confusion.png)
 
-# Prerequisites 
+ # Prerequisites 
 
 ## This is what you need to do:
 
